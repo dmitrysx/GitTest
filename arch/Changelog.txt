@@ -1,4 +1,4 @@
-Gitest 3
+Gitest intel4
 = Release 1.7.7.0 =
 == Features==
  * Fixed issue #758: Make the log of a bare repository available
